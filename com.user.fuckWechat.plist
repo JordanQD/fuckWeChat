@@ -7,7 +7,7 @@
 
     <key>ProgramArguments</key>
     <array>
-        <string>/Users/jordan_qd/opt/fuckWechat.sh</string>
+        <string>~/opt/fuckWechat.sh</string>
     </array>
 
     <key>RunAtLoad</key>
