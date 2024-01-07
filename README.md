@@ -6,6 +6,8 @@
 
 此方法需要homebrew、fswatch、合适的文本编辑器。
 
+fuckWechat.sh和com.user.fuckWechat.plist是我的实例代码。
+
 ## 获取聊天文件路径的方法
 
 ### 第一步
